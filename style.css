@@ -1,0 +1,144 @@
+body {
+  background-image: url('https://i.gifer.com/Odc8.gif');
+  background-repeat: repeat-y;
+  background-size: 1550px;
+  font-family: Arial, sans-serif;
+  /*background-color: #11bd36;*/
+  margin: 0;
+  padding: 0;
+}
+
+div h1 {
+  background-color: #cccccc;
+  height: 40px;
+  /*text-decoration: underline dashed rgb(12, 1, 12);*/
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+form {
+  margin: 20px auto;
+  width: 90%;
+  max-width: 600px;
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  display: block;
+  margin: 10px 0;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 80%;
+  max-width: 500px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+#result {
+  background-color: #f908d1;
+  margin: 20px auto;
+  width: 90%;
+  max-width: 600px;
+  text-align: center;
+}
+
+#result img {
+  max-width: 100%;
+  height: auto;
+  margin: 10px 0;
+  box-shadow: 0px 0px 10px #ccc;
+  border-radius: 4px;
+}
+
+#scientificName {
+  margin-top: 20px;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  color: #181414;
+  text-align: center;
+  display: none;
+}
+
+@media only screen and (min-width: 600px) {
+  form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  input[type="submit"] {
+    margin-left: 20px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  h1 {
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+
+  form {
+    margin-top: 50px;
+  }
+
+  #result {
+    margin-top: 50px;
+  }
+}
+
+.name-cell {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  border: 1px solid #cfcfcf;
+  border-radius: 8px;
+}
+
+.name-cell img {
+  width: auto;
+  height: 100;
+  border-radius: 8px;
+}
+
+.name-cell-details {
+  text-transform: capitalize;
+  display: flex;
+  flex-direction: column;
+  gap: 8;
+}
+
+.name-cell-details h5 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.result {
+  padding: 24px;
+}
+
+.species {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 12px;
+}

@@ -1,0 +1,707 @@
+[
+  {
+    "image": "./images/dog.jpeg",
+    "name": "Dog",
+    "scientificName": "canis lupus familiaris"
+  },
+  {
+    "image": "./images/horse.jpeg",
+    "name": "Horse",
+    "scientificName": "equus ferus caballus"
+  },
+  {
+    "image": "./images/lion.jpg",
+    "name": "Lion",
+    "scientificName": "panthera leo"
+  },
+  {
+    "image": "./images/tiger.jpg",
+    "name": "Tiger",
+    "scientificName": "panthera tigris"
+  },
+  {
+    "image": "./images/leopard.jpg",
+    "name": "Leopard",
+    "scientificName": "panthera pardus"
+  },
+  {
+    "image": "./images/bear.jpg",
+    "name": "Bear",
+    "scientificName": "ursidae"
+  },
+  {
+    "image": "./images/buck.jpg",
+    "name": "Black buck",
+    "scientificName": "antilope cervicapra"
+  },
+  {
+    "image": "./images/deer.jpg",
+    "name": "Deer",
+    "scientificName": "cervidae"
+  },
+  {
+    "image": "./images/gazelle.jpg",
+    "name": "Gazelle",
+    "scientificName": "gazelle"
+  },
+  {
+    "image": "./images/nilgai.jpg",
+    "name": "Nilgai",
+    "scientificName": "boselaphus tragocamelus"
+  },
+  {
+    "image": "./images/camel.jpg",
+    "name": "Camel",
+    "scientificName": "camelus"
+  },
+  {
+    "image": "./images/elephant.jpg",
+    "name": "Elephant",
+    "scientificName": "loxodonta"
+  },
+  {
+    "image": "./images/langur.jpg",
+    "name": "Langur",
+    "scientificName": "semnopithecus"
+  },
+  {
+    "image": "./images/macaque.jpg",
+    "name": "Macaque",
+    "scientificName": "macaca"
+  },
+  {
+    "image": "./images/redpanda.jpg",
+    "name": "Red panda",
+    "scientificName": "ailurus fulgens"
+  },
+  {
+    "image": "./images/rhinocerous.jpg",
+    "name": "Rhinocerous",
+    "scientificName": "rhinocerotidae"
+  },
+  {
+    "image": "./images/hyena.jpg",
+    "name": "Hyena",
+    "scientificName": "hyaenidae"
+  },
+  {
+    "image": "./images/wildass.jpg",
+    "name": "Wild ass",
+    "scientificName": "equus hemionus"
+  },
+  {
+    "image": "./images/boar.jpg",
+    "name": "Wild boar",
+    "scientificName": "sus scrofa"
+  },
+  {
+    "image": "./images/sheep.jpg",
+    "name": "Sheep",
+    "scientificName": "ovis aries"
+  },
+  {
+    "image": "./images/pig.jpg",
+    "name": "Domestic pig",
+    "scientificName": "sus scrofa domesticus"
+  },
+  {
+    "image": "./images/buffalo.jpg",
+    "name": "Water buffalo",
+    "scientificName": "bubalus bubalis"
+  },
+  {
+    "image": "./images/cow.jpg",
+    "name": "Cow",
+    "scientificName": "bos taurus"
+  },
+  {
+    "image": "./images/fowl.jpg",
+    "name": "Fowl",
+    "scientificName": "gallus gallus domesticus"
+  },
+  {
+    "image": "./images/wolf.jpg",
+    "name": "Wolf",
+    "scientificName": "canis lupus"
+  },
+  {
+    "image": "./images/fox.jpg",
+    "name": "Fox",
+    "scientificName": "vulpes vulpues"
+  },
+  {
+    "image": "./images/crocodile.jpg",
+    "name": "Crocodile",
+    "scientificName": "crocodylus palustris"
+  },
+  {
+    "image": "./images/zebra.jpg",
+    "name": "Zebra",
+    "scientificName": "equus quagga"
+  },
+  {
+    "image": "./images/giraffe.jpg",
+    "name": "Giraffe",
+    "scientificName": "giraffa camelopardalis"
+  },
+  {
+    "image": "./images/lizard.jpg",
+    "name": "House wall lizard",
+    "scientificName": "hemidactylus flavivirdis"
+  },
+  {
+    "image": "./images/hippo.jpg",
+    "name": "Hippopotamus",
+    "scientificName": "hippopotamus amphibius"
+  },
+  {
+    "image": "./images/cheetah.jpg",
+    "name": "Cheetah",
+    "scientificName": "acinonyx jubatus"
+  },
+  {
+    "image": "./images/rat.jpg",
+    "name": "Black rat",
+    "scientificName": "rattus rattus"
+  },
+  {
+    "image": "./images/mouse.jpg",
+    "name": "House mouse",
+    "scientificName": "mus musculus"
+  },
+  {
+    "image": "./images/rabbit.jpg",
+    "name": "Rabbit",
+    "scientificName": "oryctolagus cuniculus"
+  },
+  {
+    "image": "./images/cobra.jpg",
+    "name": "Indian cobra",
+    "scientificName": "naja naja"
+  },
+  {
+    "image": "./images/kingcobra.jpg",
+    "name": "King cobra",
+    "scientificName": "ophiophagus hannah"
+  },
+  {
+    "image": "./images/seasnake.jpg",
+    "name": "Sea snake",
+    "scientificName": "hydrophiinae"
+  },
+  {
+    "image": "./images/ajgar.jpg",
+    "name": "Indian phthon(ajgar)",
+    "scientificName": ""
+  },
+  {
+    "image": "./images/turtle.jpg",
+    "name": "Turtle",
+    "scientificName": "testudinidae"
+  },
+  {
+    "image": "./images/Drumstick.jpg",
+    "name": "Drumstick",
+    "scientificName": "Moringa oleifera"
+  },
+  {
+    "image": "./images/Cotton.jpg",
+    "name": "Cotton",
+    "scientificName": "Grossypium herbaceum"
+  },
+  {
+    "image": "./images/moneyplant.jpg",
+    "name": "Money plant",
+    "scientificName": " Epiremnum aureum"
+  },
+  {
+    "image": "./images/curryplant.jpg",
+    "name": "Curry plant",
+    "scientificName": "Murraya koenigii"
+  },
+  {
+    "image": "./images/Henna.jpg",
+    "name": "Henna",
+    "scientificName": "Lawsonia inermis"
+  },
+  {
+    "image": "./images/teak.jpg",
+    "name": "Teak",
+    "scientificName": "Tectona grandis"
+  },
+  {
+    "image": "./images/brinjal.jpg",
+    "name": "Brinjal",
+    "scientificName": "Solanum melongena"
+  },
+  {
+    "image": "./images/banana.jpg",
+    "name": "Banana",
+    "scientificName": "paradisicium"
+  },
+  {
+    "image": "./images/blackgram.jpg",
+    "name": "Black gram",
+    "scientificName": "Polsoes mungo"
+  },
+  {
+    "image": "./images/barley.jpg",
+    "name": "Barley",
+    "scientificName": "Hordeum vulgare"
+  },
+  {
+    "image": "./images/carrot.jpg",
+    "name": "Carrot",
+    "scientificName": "Daucas carota"
+  },
+  {
+    "image": "./images/cat.jpg",
+    "name": "Cat",
+    "scientificName": "felis catus"
+  },
+  {
+    "image": "./images/cashewnut.jpg",
+    "name": "Cashew nut",
+    "scientificName": " Anacardium occidentale"
+  },
+  {
+    "image": "./images/clove.jpg",
+    "name": "Clove",
+    "scientificName": "Syzygium aromatieum"
+  },
+  {
+    "image": "./images/cucumber.jpg",
+    "name": "Cucumber",
+    "scientificName": "cucumis sativas"
+  },
+  {
+    "image": "./images/curryplant.jpg",
+    "name": "Curry leaf",
+    "scientificName": "Murraya koenigii"
+  },
+  {
+    "image": "./images/capsicum.jpg",
+    "name": "Capsicum",
+    "scientificName": "Capsicum fruitscence"
+  },
+  {
+    "image": "./images/Chiku.jpg",
+    "name": "Chiku",
+    "scientificName": "Achras sapota"
+  },
+  {
+    "image": "./images/Cotton.jpg",
+    "name": "Cotton",
+    "scientificName": "Gossypium herbaceum"
+  },
+  {
+    "image": "./images/dragonfruit.jpg",
+    "name": "Dragon fruit",
+    "scientificName": "Hylocereus undatus"
+  },
+  {
+    "image": "./images/fingermellet.jpg",
+    "name": "Finger mellet",
+    "scientificName": "Eleusine coracana"
+  },
+  {
+    "image": "./images/greengram.jpg",
+    "name": "Green Gram",
+    "scientificName": "Phaseolus audicus"
+  },
+  {
+    "image": "./images/guava.jpg",
+    "name": "Guava",
+    "scientificName": "Psidium guava"
+  },
+  {
+    "image": "./images/ginger.jpg",
+    "name": "Ginger",
+    "scientificName": "Zingiber officinale"
+  },
+  {
+    "image": "./images/garlic.jpg",
+    "name": "Garlic",
+    "scientificName": "Allium sativum"
+  },
+  {
+    "image": "./images/jackfruit.jpg",
+    "name": "Jackfruit",
+    "scientificName": "Artocarpus integra"
+  },
+  {
+    "image": "./images/jowar.jpg",
+    "name": "Jowar",
+    "scientificName": "Sorghum Vulgare"
+  },
+  {
+    "image": "./images/kadamb.jpg",
+    "name": "Kadamb",
+    "scientificName": "Anthocephalus indicus"
+  },
+  {
+    "image": "./images/lemon.jpg",
+    "name": "Lemon",
+    "scientificName": "Citrus Limonium"
+  },
+  {
+    "image": "./images/maize.jpg",
+    "name": "Maize",
+    "scientificName": "Zea mays"
+  },
+  {
+    "image": "./images/Neem.jpg",
+    "name": "Neem",
+    "scientificName": "Azadirachta indica"
+  },
+  {
+    "image": "./images/orange.jpg",
+    "name": "Onion",
+    "scientificName": "Allium cepa"
+  },
+  {
+    "image": "./images/orange.jpg",
+    "name": "Orange",
+    "scientificName": "Citrus aurantium"
+  },
+  {
+    "image": "./images/pea.jpg",
+    "name": "Pea",
+    "scientificName": " Pisum sativum"
+  },
+  {
+    "image": "./images/spinach.jpg",
+    "name": "Spinach",
+    "scientificName": "Lactuca sativa"
+  },
+  {
+    "image": "./images/sunflower.jpg",
+    "name": "Sunflower",
+    "scientificName": "Helianthus annuus"
+  },
+  {
+    "image": "./images/turmeric.jpg",
+    "name": "Tumeric",
+    "scientificName": "Curcuma longa"
+  },
+  {
+    "image": "./images/Tobacco.jpg",
+    "name": "Tobacco",
+    "scientificName": "Nicotina tobaccum"
+  },
+  {
+    "image": "./images/Tulsi.jpg",
+    "name": "Tulsi",
+    "scientificName": "Ocimum sanctum"
+  },
+  {
+    "image": "./images/teak.jpg",
+    "name": "Teak",
+    "scientificName": "Tectona grandis linn"
+  },
+  {
+    "image": "./images/tamarind.jpg",
+    "name": "Tamarind tree",
+    "scientificName": "Tamarindus indica"
+  },
+  {
+    "image": "./images/tomato.jpg",
+    "name": "Tomato",
+    "scientificName": "lycopersicon esculentum"
+  },
+  {
+    "image": "./images/watermelon.jpg",
+    "name": "Watermelon",
+    "scientificName": "Citrullus valgaris"
+  },
+  {
+    "image": "./images/lettuce.jpg",
+    "name": "Lettuce",
+    "scientificName": "Lactuca sativa"
+  },
+  {
+    "image": "./images/mint.jpg",
+    "name": "Mint",
+    "scientificName": "Mentha arvensis"
+  },
+  {
+    "image": "./images/brinjal.jpg",
+    "name": "Brinjal",
+    "scientificName": "Solanum melongena"
+  },
+  {
+    "image": "./images/brusselssprout.jpg",
+    "name": "Brussels sprout",
+    "scientificName": "Brassica oleracea gemmifera group"
+  },
+  {
+    "image": "./images/brocolli.jpg",
+    "name": "Brocolli",
+    "scientificName": "Brassica oleracea italica group"
+  },
+  {
+    "image": "./images/bellpepper.jpg",
+    "name": "Bell pepper",
+    "scientificName": "Capsicum annum"
+  },
+  {
+    "image": "./images/capsicum.jpg",
+    "name": "Capsicum",
+    "scientificName": "Capsicum fruitscence"
+  },
+  {
+    "image": "./images/carrot.jpg",
+    "name": "Carrot",
+    "scientificName": "Daucas carota"
+  },
+  {
+    "image": "./images/cauliflower.jpg",
+    "name": "Cauliflower",
+    "scientificName": "Brassica oleracea ortytis group"
+  },
+  {
+    "image": "./images/cabbage.jpg",
+    "name": "Cabbage",
+    "scientificName": "Brassica oleracea capitata group"
+  },
+  {
+    "image": "./images/chilli.jpg",
+    "name": "Chilli",
+    "scientificName": "capsicum annuum"
+  },
+  {
+    "image": "./images/Greensoybean.jpg",
+    "name": "Green soybean",
+    "scientificName": "Glycine Max"
+  },
+  {
+    "image": "./images/jackfruit.jpg",
+    "name": "Jack fruit",
+    "scientificName": "Artocarpus integra"
+  },
+  {
+    "image": "./images/Lemon.jpg",
+    "name": "Lemon",
+    "scientificName": "Citrus Limonium"
+  },
+  {
+    "image": "./images/Lettuce.jpg",
+    "name": "Lettuce",
+    "scientificName": "Lactuca sativa"
+  },
+  {
+    "image": "./images/Onion.jpg",
+    "name": "Onion",
+    "scientificName": "Allium cepa"
+  },
+  {
+    "image": "./images/Okra.jpg",
+    "name": "Okra",
+    "scientificName": "Abelmoschus esculentum"
+  },
+  {
+    "image": "./images/Peas.jpg",
+    "name": "Peas",
+    "scientificName": "Pisum sativum"
+  },
+  {
+    "image": "./images/Potato.jpg",
+    "name": "Potato",
+    "scientificName": "Solanum tubersum"
+  },
+  {
+    "image": "./images/Pumpkin.jpg",
+    "name": "Pumpkin",
+    "scientificName": "Cucurbita maxima"
+  },
+  {
+    "image": "./images/Radish.jpg",
+    "name": "Radish",
+    "scientificName": "Raphanus sativus"
+  },
+  {
+    "image": "./images/Spinach.jpg",
+    "name": "Spinach",
+    "scientificName": "Spinacia oleracea"
+  },
+  {
+    "image": "./images/tomato.jpg",
+    "name": "Tomato",
+    "scientificName": "Lycopersicon esculentum"
+  },
+  {
+    "image": "./images/Turnip.jpg",
+    "name": "Turnip",
+    "scientificName": "Brassica rapus rapifera group"
+  },
+  {
+    "image": "./images/Sweetpotato.jpg",
+    "name": "Sweet potato",
+    "scientificName": "Ipomoea batatas"
+  },
+  {
+    "image": "./images/apple.jpg",
+    "name": "Apple",
+    "scientificName": "Pyrus malus"
+  },
+  {
+    "image": "./images/Apricot.jpg",
+    "name": "Apricot",
+    "scientificName": "Prunus armeniaca"
+  },
+  {
+    "image": "./images/Avacado.jpg",
+    "name": "Avacado",
+    "scientificName": "Persea americana"
+  },
+  {
+    "image": "./images/Blackberry.jpg",
+    "name": "Black berry",
+    "scientificName": "Rubus fruiticosus"
+  },
+  {
+    "image": "./images/Cantaloupe.jpg",
+    "name": "Cantaloupe",
+    "scientificName": "cucumis melo"
+  },
+  {
+    "image": "./images/Cherry.jpg",
+    "name": "Cherry",
+    "scientificName": "Prunus avium"
+  },
+  {
+    "image": "./images/Date.jpg",
+    "name": "Date",
+    "scientificName": "Phoenix dactylifera"
+  },
+  {
+    "image": "./images/dragonfruit.jpg",
+    "name": "Dragon fruit",
+    "scientificName": "Hylocereus undatus"
+  },
+  {
+    "image": "./images/Fig.jpg",
+    "name": "Fig",
+    "scientificName": "Ficus carica"
+  },
+  {
+    "image": "./images/Gosseberry.jpg",
+    "name": "Gosseberry",
+    "scientificName": "Ribes uva - crispa"
+  },
+  {
+    "image": "./images/Grapes.jpg",
+    "name": "Grapes",
+    "scientificName": "Vitis vinifera"
+  },
+  {
+    "image": "./images/Honey dew.jpg",
+    "name": "Honey dew",
+    "scientificName": " Cucumis melo"
+  },
+  {
+    "image": "./images/Kiwi.jpg",
+    "name": "Kiwi",
+    "scientificName": "Actinidia deliciosa"
+  },
+  {
+    "image": "./images/Lime.jpg",
+    "name": "Lime",
+    "scientificName": " Citrus reticulata"
+  },
+  {
+    "image": "./images/Lichi.jpg",
+    "name": "Lichi",
+    "scientificName": "Litchi chinensis"
+  },
+  {
+    "image": "./images/Mandarinorange.jpg",
+    "name": "Mandarin Orange",
+    "scientificName": "Citrus reticulata"
+  },
+  {
+    "image": "./images/mango.jpg",
+    "name": "Mango",
+    "scientificName": "Mangifera indica"
+  },
+  {
+    "image": "./images/Mulberry.jpg",
+    "name": "Mulberry",
+    "scientificName": "Genus"
+  },
+  {
+    "image": "./images/Peach.jpg",
+    "name": "Peach",
+    "scientificName": "Prunus persica"
+  },
+  {
+    "image": "./images/Papaya.jpg",
+    "name": "Papaya",
+    "scientificName": " Carica Papaya"
+  },
+  {
+    "image": "./images/Passion.jpg",
+    "name": "Passion fruit",
+    "scientificName": "passiflora edulis"
+  },
+  {
+    "image": "./images/Pear.jpg",
+    "name": "Pear",
+    "scientificName": "Pyrus communis"
+  },
+  {
+    "image": "./images/Peepal.jpg",
+    "name": "Peepal",
+    "scientificName": "Ficus religiosa linn"
+  },
+  {
+    "image": "./images/Persimmon.jpg",
+    "name": "Persimmon",
+    "scientificName": "Diospyrous kaki"
+  },
+  {
+    "image": "./images/Pineapple.jpg",
+    "name": "Pine Apple",
+    "scientificName": "ananus sativus"
+  },
+  {
+    "image": "./images/Plum.jpg",
+    "name": "Plum",
+    "scientificName": "Prunus domestica"
+  },
+  {
+    "image": "./images/Pomegranate.jpg",
+    "name": "Pomegranate",
+    "scientificName": "Punica granatum"
+  },
+  {
+    "image": "./images/Pricklypear.jpg",
+    "name": "Prickly pear",
+    "scientificName": "Opuntia  stricta"
+  },
+  {
+    "image": "./images/Raspberry.jpg",
+    "name": "Raspberry",
+    "scientificName": "Rubus idaeobatus"
+  },
+  {
+    "image": "./images/Redcurrant.jpg",
+    "name": "Redcurrant",
+    "scientificName": "Ribes rubrum"
+  },
+  {
+    "image": "./images/watermelon.jpg",
+    "name": "Watermelon",
+    "scientificName": "Citrullus vulgari"
+  },
+  {
+    "image": "./images/Banyan.jpg",
+    "name": "Banyan",
+    "scientificName": "Ficus benghalensis"
+  },
+  {
+    "image": "./images/Bamboo.jpg",
+    "name": "Bamboo",
+    "scientificName": "Bamboosa aridinarifolia"
+  }
+]
