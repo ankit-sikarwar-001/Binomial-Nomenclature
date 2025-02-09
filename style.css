@@ -1,5 +1,5 @@
 body {
-  background-image: url('https://i.gifer.com/Odc8.gif');
+  background-image: url('https://img.freepik.com/premium-vector/nighttime-scene-forest-with-glowing-fireflies-tall-trees-natural-background-illustration_674398-4520.jpg?semt=ais_hybrid');
   background-repeat: repeat-y;
   background-size: 1550px;
   font-family: Arial, sans-serif;
@@ -108,11 +108,12 @@ input[type="submit"]:hover {
 }
 
 .name-cell {
-  display: flex;
-  gap: 16px;
-  padding: 16px;
-  border: 1px solid #cfcfcf;
-  border-radius: 8px;
+    display: flex;
+    gap: 16px;
+    padding: 16px;
+    background: #3bba3b;
+    margin: 10px;
+    border-radius: 8px;
 }
 
 .name-cell img {
